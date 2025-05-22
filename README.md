@@ -32,6 +32,5 @@ A React-based web application that allows users to search for GitHub profiles an
 
 ### Installation
 
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/Harshil-Madaan/github_finder.git
+1. Clone this repository :
+   git clone https://github.com/Harshil-Madaan/github_finder.git](https://github.com/Harshil-Madaan/github_finder)
